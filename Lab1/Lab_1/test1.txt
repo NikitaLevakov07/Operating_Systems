@@ -1,4 +1,0 @@
-Hello world
-My name is Nikita
-This is a Operating Systems
-I try to do this lab
